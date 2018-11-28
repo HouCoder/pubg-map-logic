@@ -1,6 +1,6 @@
 # PUBG map logic
 
-GF: Seems you really enjoy playing pubg, why don't you play it for the rest of your life?
+GF: Seems like you really enjoy playing this game, why don't you play it for the rest of your life?
 
 Me: Terrific!
 
